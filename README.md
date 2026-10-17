@@ -25,4 +25,4 @@
 
 ## 7. 遇到的问题与处理
 - 那可太多了，比如先下成了GPU版本，还没下成功。以及ai含量百分百，这样真的没问题吗
-- 使用 VMware 共享文件夹在 Windows 和 Linux 之间传输模型和视频文件。
+- 使用 VMware 共享文件夹在 Windows 和 Linux 之间传输模型和视频文件。PR for armor inference
